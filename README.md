@@ -1,4 +1,4 @@
-# HotelMaanagement-in-python
+# HotelManagement-in-python
 hotel management using python and nested list
 
 Structure of data : [name,phone,address,checkin,checkout,roomType,price,restP] 
